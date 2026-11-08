@@ -1,0 +1,8 @@
+# This folder also holds the Wine prefix, Proton and logs: only track our own files.
+/*
+!/.gitignore
+!/README.md
+!/run-exstar.sh
+!/shim/
+/shim/build/
+/shim/*.log
